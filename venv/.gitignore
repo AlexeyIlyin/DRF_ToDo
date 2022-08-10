@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+.idea
+env
+__pycache__
+.vscode
+*.pyc
+db.sqlite3
+../.idea
+node_modules
+local_settings.py
+venv
+venv1
+package-lock.json
+yarn.lock
